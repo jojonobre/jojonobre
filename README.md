@@ -1,10 +1,6 @@
 <h1 align="center">💜 Joyce | Estudante de Ciência da Computação</h1>
 
 <p align="center">
-  <img src="https://github.com/jojonobre/Joycemaria/blob/main/perfil.jpeg?raw=true" alt="Joyce Apresentação" width="250"/>
-</p>
-
-<p align="center">
   🚀 Iniciando minha jornada como desenvolvedora <br/>
   💡 Apaixonada por tecnologia, aprendizado contínuo e desafios inspiradores
 </p>
