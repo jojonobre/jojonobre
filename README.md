@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Iniciando minha jornada como desenvolvedora <br/>
-  💡 Apaixonada por tecnologia, aprendizado contínuo e desafios inspiradores
+  💡 Apaixonada por tecnologia, aprendizado contínuo e desafios inspiradores.
 </p>
 
 ---
