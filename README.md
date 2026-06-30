@@ -70,17 +70,11 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 
 ---
 
-## Estatísticas GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jojonobre&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojonobre&layout=compact&theme=radical" />
-</p>
+## GitHub Status
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jojonobre&theme=radical" />
 </p>
-
 
 ---
 
