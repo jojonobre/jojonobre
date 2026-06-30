@@ -57,7 +57,7 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 ### Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </div>
 
 ---
