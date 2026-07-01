@@ -1,13 +1,16 @@
 <h1 align="center"> Joyce Maria 💜</h1>
 
 <p align="center">
+  
   Estudante de Ciência da Computação |
   QA Analyst Intern <br>
   Automação de Testes • Qualidade de Software • Desenvolvimento Web <br>
     Focada em Automação de Testes, Qualidade de Software e Aprendizado Contínuo.
+  
 </p>
 
 <div align="center">
+  
   <a href="https://www.linkedin.com/in/joyce-maria-86250231a/">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,6 +18,7 @@
   <a href="mailto:joycemaria.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </div>
 
 ---
@@ -54,7 +58,9 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 ### Frontend
 
 <div align="center">
+  
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite" />
+  
 </div>
 
 ---
@@ -62,7 +68,9 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 ### Backend
 
 <div align="center">
+  
   <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  
 </div>
 
 ---
@@ -70,7 +78,9 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 ### DevOps & Ferramentas
 
 <div align="center">
+  
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  
 </div>
 
 ---
@@ -78,7 +88,9 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 ## GitHub Status
 
 <p align="center">
+  
   <img src="https://streak-stats.demolab.com?user=jojonobre&theme=radical" />
+  
 </p>
 
 ---
@@ -105,4 +117,5 @@ Atualmente atuo como QA Analyst Intern, trabalhando com testes manuais e automat
 <p align="center">
 
   ✨ Building quality through testing and continuous learning.✨
+  
 </p>
